@@ -1,0 +1,527 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.1</creator>
+      <lastmodified>19/05/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="0" label="LC/MS ANALYSIS OF STEROLIC COMPOUNDS FROM GLYCYRRHIZA GLABRA | Khalaf I; Corciova A; Vlase L; Ivanescu B; Lazar D; ">
+        <viz:color a="0" b="255" g="255" r="255" />
+        <viz:size value="4" />
+      </node>
+      <node id="1" label="The unexpected discovery of a focus of hepatitis C virus genotype 5 in a Syrian province | Antaki N; Haddad M; Kebbewar K; Abdelwahab J; Hamed O; Aaraj R; Alhaj N; Haffar S; Assil M; Ftayeh M; Assaad F; Doghman D; Ali T; Nasserelddine M; Ali A; Antaki F; ">
+        <viz:color a="0" b="255" g="255" r="255" />
+        <viz:size value="4" />
+      </node>
+      <node id="2" label="Britvinite, Pb15Mg9(Si10O28)(BO3)(4)(CO3)(2)(OH)(12)O-2, a new mineral species from LAyenngban, Sweden | Chukanov N V; Yakubovich O V; Pekov I V; Belakovsky D I; Massa W; ">
+        <viz:color a="0" b="255" g="255" r="255" />
+        <viz:size value="4" />
+      </node>
+      <node id="3" label="The genetics of tolerance to tristeza disease in citrus rootstocks | Bordignon R; ">
+        <viz:color a="0" b="255" g="255" r="255" />
+        <viz:size value="4" />
+      </node>
+      <node id="4" label="Hercynian deformation in the western Ahnet Basin and Bled El-Mass area, Algerian Sahara: a continuous strain | Zazoun R S; ">
+        <viz:color a="0" b="255" g="255" r="255" />
+        <viz:size value="4" />
+      </node>
+      <node id="5" label="Changes in Holocene Paleoseismic activity in the Hula pull-apart basin, Dead Sea Rift, northern Israel | Zilberman E; ">
+        <viz:color a="0" b="255" g="255" r="255" />
+        <viz:size value="4" />
+      </node>
+      <node id="6" label="LIFE STAGES - GENDER AND FERTILITY IN BANGLADESH - AZAZ,KMA, MAHONEY,C | Standing H; ">
+        <viz:color a="0" b="255" g="255" r="255" />
+        <viz:size value="4" />
+      </node>
+      <node id="7" label="Test Article 1 | Me A B; ">
+        <viz:color a="0" b="255" g="255" r="255" />
+        <viz:size value="7" />
+      </node>
+      <node id="8" label="Test Article 2 | Me A B; Nobody D F; ">
+        <viz:color a="0" b="255" g="255" r="255" />
+        <viz:size value="7" />
+      </node>
+      <node id="9" label="Test Article 3 | Brain M Y; ">
+        <viz:color a="0" b="255" g="255" r="255" />
+        <viz:size value="4" />
+      </node>
+      <node id="10" label="Review of pharmacological effects of Glycyrrhiza sp and its bioactive compounds | Asl M NASSIRI; Hosseinzadeh H; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="11" label="Concept of sequential analysis of free and conjugated phytosterols in different plant matrices | Breinholder P; Mosca L; Lindner W; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="12" label="Liquid chromatography-UV determination and liquid chromatography-atmospheric pressure chemical ionization mass spectrometric characterization of sitosterol and stigmasterol in soybean oil | Careri M; Elviri L; Mangia A; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="13" label="Isolation and biological activity of lipids from licorice (Glycyrrhiza glabra) roots | Denisova S B; Danilov V I; Yunusova S G; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="14" label="Field survey of Glycyrrhiza plants and analysis of their secondary metabolism | Hayashi H; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="15" label="Determination of phenolic compounds from Geranium sanguineum by HPLC | Leucuta S; Vlase L; Gocan S; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="16" label="Effects of arbuscular mycorrhizal fungi on the growth, nutrient uptake and glycyrrhizin production of licorice (Glycyrrhiza uralensis Fisch) | Liu J; Wu L; Wei S; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="17" label="A rapid chromatographic method for simultaneous determination of beta-sitosterol and tocopherol homologues in vegetable oils | Ortiz C; Moya M; Navarro V B; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="18" label="Quantitative determination of cholesterol, sitosterol, and sitostanol in cultured Caco-2 cells by liquid chromatography-atmospheric pressure chemical ionization mass spectrometry | Palmgren J J; Toyras A; Mauriala T; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="19" label="An HPLC method for the quantification of sterols in edible seaweeds | Sanchez-machado D I; Lopez-hernandez J; Paseiro-losada P; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="20" label="New prenylated isoflavanones from the roots of Glycyrrhiza glabra | Suman A; Ali M; Alam P; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="21" label="Genetic diversity in hepatitis C virus in Egypt and possible association with hepatocellular carcinoma | Abdel-hamid M; El-daly M; Molnegren V; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="22" label="Identification of numerous hepatitis C virus genotypes in Montreal, Canada | Bernier L; Willems B; Delage G; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="23" label="Assessment of hepatitis C virus RNA and genotype from 6807 patients with chronic hepatitis C in the United States | Blatt L M; Mutchnick M G; Tong M J; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="24" label="Effectiveness of interferon plus ribavirin combination in the treatment of naive patients with hepatitis C virus type 5. A French multicentre retrospective study | Bonny C; Fontaine H; Poynard T; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="25" label="Hepatitis C virus genotype 5 in southern Belgium: Epidemiological characteristics and response to therapy | Delwaide J; Gerard C; Reenaers C; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="26" label="HCV genotype 4 in Belgium: three distinct patterns among patients from European and African origin | Delwaide J; Reenaers C; Gerard C; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="27" label="Hepatitis C virus infection in a community in the Nile Delta: Risk factors for seropositivity | Habib M; Mohamed M K; Abdel-aziz F; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="28" label="Infection by genotype 5a of HCV in a district of southeast Spain | Jover R; Perez-serra J; De vera F; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="29" label="Hepatitis C virus genotype 5: Epidemiological characteristics and sensitivity to combination therapy with interferon-alpha plus ribavirin | Legrand-abravanel F; Sandres-saune K; Barange K; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="30" label="Three cases of infection with hepatitis C virus genotype 5 among Brazilian hepatitis patients | Levi J E; Takaoka D T; Garrini R H; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="31" label="NEW GENOTYPE OF HEPATITIS-C VIRUS IN SOUTH-AFRICA | Ohno T; Mizokami M; Tibbs C J; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="32" label="Changing of hepatitis C virus genotype patterns in France at the beginning of the third millenium: The GEMHEP GenoCII Study | Payan C; Roudot-thoraval F; Marcellin P; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="33" label="Distribution of hepatitis C virus genotypes in the Middle East | Ramia S; Eid-fares J; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="34" label="Classification, nomenclature, and database development for hepatitis C virus (HCV) and related viruses: proposals for standardization | Robertson B; Myers G; Howard C; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="35" label="Epidemiological characteristics and response to peginterferon plus ribavirin treatment of hepatitis C virus genotype 4 infection | Roulot D; Bourcier V; Grando V; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="36" label="Genotypes of hepatitis C virus (HCV) among positive Lebanese patients: comparison of data with that from other Middle Eastern countries | Sharara A I; Ramia S; Ramlawi F; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="37" label="Global epidemiology of hepatitis C virus infection | Shepard C W; Finelli L; Alter M; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="38" label="GENOTYPING OF HEPATITIS-C VIRUS IN SOUTH-AFRICA | Smuts H M; Kannemeyer J; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="39" label="Rontgenographische Ermittelung der Symmetrie und des Elementes p&amp;lt;INF&amp;gt;0&amp;lt;/INF&amp;gt;des Molybdophyllits | Aminoff G; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="40" label="Ganomalite, margarosanite and molybdophyllite from Ungban, south-central Sweden, and synthetic equivalents | Charalampides G; Lindqvist B; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="41" label="KEGELITE FROM TSUMEB, NAMIBIA - A REDEFINITION | Dunn P J; Braithwaite R; Roberts A C; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="42" label="Mineralogische Notizen | Flink G; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="43" label="SURITE, A NEW PB-RICH LAYER SILICATE MINERAL | Hayase K; Dristas J A; Tsutsumi S; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="44" label="FERRISURITE, THE FE-3+ ANALOG OF SURITE, FROM INYO COUNTY, CALIFORNIA | Kampf A R; Jackson L L; Sidder G B; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="45" label="Crystal chemistry of basic lead carbonates. II. Crystal structure of synthetic 'plumbonacrite' | Krivovichev S V; Burns P C; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="46" label="CRYSTAL-STRUCTURE OF ZEOPHYLLITE | Merlino S; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="47" label="On zeophyllite from Radejcin, Ceske stredohori Mts.: X-ray and IR-investigations | Mikenda W; Pertlik F; Povondra P; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="48" label="Niksergievite, [Ba1.33Ca0.67AlCO3)(OH)(4)][Al-2(AlSi3O10)(OH)(2)]center dot nH(2)O, a new phyllosilicate related to the surite-ferrisurite series | Saburov S P; Britvin S N; Bekenova G K; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="49" label="Surite: Its structure and properties | Uehara M; Yamazaki A; Tsutsumi S; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="50" label="Preparation and properties of a basic lead calcium carbonate-swelling mica complex | Uehara M; Yamazaki A; Tsutsumi S; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="51" label="Crystal structure of britvinite [Pb-7(OH)(3)F(BO3)(2)(CO3)][Mg-4.5(OH)(3)(Si5O14)]: A new layered silicate with an original type of silicon-oxygen networks | Yakubovich O V; Massa W; Chukanov N V; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="52" label="ISOZYMES IN THE EARLY IDENTIFICATION OF HYBRIDS AND NUCELLAR CLONES IN CITRUS BREEDING | Ballve r m l ; Bordignon r ; Medina filho h p ; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="53" label="Identification of reciprocal hybrids in citrus by the broadness of the leaf petiole wing | Ballve R; Medina H P; Bordignon R; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="54" label="Tristeza disease of citrus | Bennett C W; Costa A S; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="55" label="Estados sobre a 'tristeza' das Citrus III. Experiencias de transmissao. | Bitancourt A A; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="56" label="Estudos sobre a 'tristeza' dos Citrus. I. Analise estatistica da distribuicao das arvores doentes de um pomar de Laranjeira Doce enxertada sobre Laranjeira Azeda. | Bitancourt A A; Rodrigues A J; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="57" label="The citrus tristeza disease and its implications on rootstock improvement | Bordignon R; Medina filho H PENNA; Muller G WALTER; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="58" label="Investigacoes sobre a tristeza dos Citrus. II. Conceitos e dados sobre a reacao das plantas citricas a tristeza. | Costa A S; Grant T J; Moreira S; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="59" label="Estudos recentes sobre a ocorrencia de caneluras da tristeza em variedades de citros | Figueiredo J O; Pompeu junior J; Pio R CLASS=&quot;FCR-DATA-NORMAL&quot;&gt;; Muller G W; Teofilo sobrinho J; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="60" label="Investigacao sobre a &quot;tristeza&quot; dos citrus. I. Alteracoes da pressao osmotica | Franco C M; Bacchi O; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="61" label="Increase and patterns of spread of citrus tristeza virus infections in Costa Rica and the Dominican Republic in the presence of the brown citrus aphid, Toxoptera citricida | Gottwald T R; Garnsey S M; Borbon J; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="62" label="Horticultural varieties of citrus | Hodgson R W; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="63" label="Survey methods for assessment of Citrus tristeza virus incidence in citrus nurseries | Hughes G; Gottwald T R; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="64" label="THREAD-LIKE PARTICLES ASSOCIATED WITH TRISTEZA DISEASE OF CITRUS | Kitajima E W; Costa A S; Oliveira A R; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="65" label="Gametic segregations of isozyme loci in citrus roostocks and their allelic contributions in the formation of hybrids | Medina filho H PENNA; Bordignon R; Siqueira W JOSÉ; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="66" label="Sdbre a natureza e transmissibilidade da doenca &quot;tristeza&quot; dos citrus | Meneghini M; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="67" label="Efficient search for new resistant genotypes to the citrus Tristeza closterovirus in the orange subfamily Aurantioideae | Mestre P F; Asins M J; Pina J A; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="68" label="New gene(s) involved in the resistance of Poncirus trifoliata (L.) Raf. To citrus tristeza virus | Mestre P F; Asins M J; Carbonell E A; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="69" label="Metodos para identificacao e controle da tristeza dos citros. | Moreira S; Costa A S; Grant T J; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="70" label="Methode de determination graphique des directions de raccourcissement, dallongement et intermediaire d'une population de failles | Arthaud F; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="71" label="PAN-AFRICAN GRANITOID EMPLACEMENT IN THE ADRAR DES IFORAS MOBILE BELT (MALI) - A RB-SR ISOTOPE STUDY | Bertrand J M; Davison I; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="72" label="Geodynamic evolution of the Pan-African orogenic belt: a new interpretation of the hoggar shield (Algerian sahara) | Bertrand J M; Caby R; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="73" label="PAN-AFRICAN DISPLACED TERRANES IN THE TUAREG SHIELD (CENTRAL SAHARA) | Black R; Latouche L; Liegeois J P; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="74" label="CRATONS, MOBILE BELTS, ALKALINE ROCKS AND CONTINENTAL LITHOSPHERIC MANTLE - THE PAN-AFRICAN TESTIMONY | Black R; Liegeois J P; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="75" label="EVIDENCE FOR LATE PRECAMBRIAN PLATE TECTONICS IN WEST-AFRICA | Black R; Caby R; Moussinepouchkine A; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="76" label="Les relations des microfractures avec les plissements dans la region du Djebel Ben Tadjine et au 'km 30' (ChaInes d'Ougarta, Sahara occidental, Algerie) | Bles J L; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="77" label="Pan-African ocean in the hoggar-iforas segment, central sahara | Caby R; Bertrand J M; Black R; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="78" label="FROM THE CRATON TOWARDS ITS MARGIN - SEDIMENTARY AND STRUCTURAL EVOLUTION OF THE AHNET-TIMIMOUN-BECHAR BASIN DURING CARBONIFEROUS (ALGERIAN SAHARA) - PALEOCLIMATIC DATA | Conrad J; Lemosquet Y; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="79" label="JURASSIC AND TECTONIC EOCRETACEOUS DISTENSION ON NORTHWEST OF AFRICAN CONTINENTAL-SHELF (REGGAN BASIN, CENTRAL SAHARA) | Conrad J; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="80" label="ANTIATLAS-OUGARTA ARC (NORTHWEST SAHARA, ALGERIA, MOROCCO) | Donzeau M; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="81" label="AFRICAN PALEOZOIC SERIES - AN APPROACH | Fabre J; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="82" label="THE 1759 EARTHQUAKE IN THE BEKAA VALLEY - IMPLICATIONS FOR EARTHQUAKE HAZARD ASSESSMENT IN THE EASTERN MEDITERRANEAN REGION | Ambraseys N N; Barazangi M; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="83" label="EARTHQUAKES IN ISRAEL AND ADJACENT AREAS - MACROSEISMIC OBSERVATIONS SINCE 100 BCE | Amiran D; Arieh E; Turcotte T; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="84" label="4000 YEARS OF SEISMICITY ALONG THE DEAD-SEA RIFT | Benmenahem A; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="85" label="A NEW SYSTEM FOR MEASURING OPTICALLY STIMULATED LUMINESCENCE FROM QUARTZ SAMPLES | Botterjensen L; Duller G; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="86" label="Crusader castle torn apart by earthquake at dawn, 20 May 1202 | Ellenblum R; Marco S; Agnon A; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="87" label="THERMOLUMINESCENCE DATING OF FAULT-SCARP-DERIVED COLLUVIUM - DECIPHERING THE TIMING OF PALEOEARTHQUAKES ON THE WEBER SEGMENT OF THE WASATCH FAULT ZONE, NORTH CENTRAL UTAH | Forman S L; Nelson A R; Mccalpin J P; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="88" label="AN EVALUATION OF THERMO-LUMINESCENCE DATING OF PALEOEARTHQUAKES ON THE AMERICAN FORK SEGMENT, WASATCH FAULT ZONE, UTAH | Forman S L; Machette M N; Jackson M E; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="89" label="A model for the structural development of Israel and adjacent areas since upper Cretaceous times | Freund R; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="90" label="Creation processes of Hermon and Lebanon mountains | Freund R; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="91" label="SHEAR ALONG DEAD-SEA RIFT | Freund R; Garfunkel Z; Zak I; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="92" label="INTERNAL STRUCTURE OF THE DEAD-SEA LEAKY TRANSFORM (RIFT) IN RELATION TO PLATE KINEMATICS | Garfunkel Z; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="93" label="TRAVERTINES IN THE NORTHERN HULA VALLEY, ISRAEL | Heimann A; Sass E; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="94" label="THE EVOLUTION OF BARAHTA RHOMB-SHAPED GRABEN, MOUNT HERMON, DEAD-SEA TRANSFORM | Heimann A; Eyal M; Eyal Y; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="95" label="YOUNG FAULTS IN THE HULA PULL-APART BASIN, CENTRAL DEAD-SEA TRANSFORM | Heimann A; Ron H; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="96" label="817-year-old walls offset sinistrally 2.1 m by the Dead Sea transform, Israel | Marco S; Agnon A; Ellenblum R; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="97" label="SEDIMENTOLOGY OF FAULT-SCARP-DERIVED COLLUVIUM FROM THE 1983 BORAH PEAK RUPTURE, CENTRAL IDAHO | Mccalpin J P; Zuchiewicz W; Jones L; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="98" label="LITHOFACIES ANALYSIS OF COLLUVIAL SEDIMENTS - AN AID IN INTERPRETING THE RECENT HISTORY OF QUATERNARY NORMAL FAULTS IN THE BASIN AND RANGE PROVINCE, WESTERN UNITED-STATES | Nelson A R; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="99" label="Late quaternary earthquake chronology from luminescence dating of colluvial and alluvial deposits of the Arava Valley, Israel | Porat N; Wintle A G; Amit R; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="100" label="Luminescence dating of fault-related alluvial fan sediments in the southern Arava valley, Israel | Porat N; Amit R; Zilberman E; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="101" label="COSMIC-RAY AND GAMMA-RAY DOSIMETRY FOR TL AND ELECTRON-SPIN-RESONANCE | Prescott J R; Hutton J T; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+      <node id="102" label="Test Cited Reference | Notme C; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="13" />
+      </node>
+      <node id="103" label="Test Article 1 | Me A C; ">
+        <viz:color a="0" b="20" g="255" r="67" />
+        <viz:size value="7" />
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="16" />
+      <edge id="1" source="0" target="17" />
+      <edge id="2" source="0" target="18" />
+      <edge id="3" source="0" target="19" />
+      <edge id="4" source="0" target="20" />
+      <edge id="5" source="0" target="10" />
+      <edge id="6" source="0" target="11" />
+      <edge id="7" source="0" target="12" />
+      <edge id="8" source="0" target="13" />
+      <edge id="9" source="0" target="14" />
+      <edge id="10" source="0" target="15" />
+      <edge id="11" source="1" target="32" />
+      <edge id="12" source="1" target="33" />
+      <edge id="13" source="1" target="34" />
+      <edge id="14" source="1" target="35" />
+      <edge id="15" source="1" target="36" />
+      <edge id="16" source="1" target="37" />
+      <edge id="17" source="1" target="38" />
+      <edge id="18" source="1" target="21" />
+      <edge id="19" source="1" target="22" />
+      <edge id="20" source="1" target="23" />
+      <edge id="21" source="1" target="24" />
+      <edge id="22" source="1" target="25" />
+      <edge id="23" source="1" target="26" />
+      <edge id="24" source="1" target="27" />
+      <edge id="25" source="1" target="28" />
+      <edge id="26" source="1" target="29" />
+      <edge id="27" source="1" target="30" />
+      <edge id="28" source="1" target="31" />
+      <edge id="29" source="2" target="39" />
+      <edge id="30" source="2" target="40" />
+      <edge id="31" source="2" target="41" />
+      <edge id="32" source="2" target="42" />
+      <edge id="33" source="2" target="43" />
+      <edge id="34" source="2" target="44" />
+      <edge id="35" source="2" target="45" />
+      <edge id="36" source="2" target="46" />
+      <edge id="37" source="2" target="47" />
+      <edge id="38" source="2" target="48" />
+      <edge id="39" source="2" target="49" />
+      <edge id="40" source="2" target="50" />
+      <edge id="41" source="2" target="51" />
+      <edge id="42" source="3" target="64" />
+      <edge id="43" source="3" target="65" />
+      <edge id="44" source="3" target="66" />
+      <edge id="45" source="3" target="67" />
+      <edge id="46" source="3" target="68" />
+      <edge id="47" source="3" target="69" />
+      <edge id="48" source="3" target="52" />
+      <edge id="49" source="3" target="53" />
+      <edge id="50" source="3" target="54" />
+      <edge id="51" source="3" target="55" />
+      <edge id="52" source="3" target="56" />
+      <edge id="53" source="3" target="57" />
+      <edge id="54" source="3" target="58" />
+      <edge id="55" source="3" target="59" />
+      <edge id="56" source="3" target="60" />
+      <edge id="57" source="3" target="61" />
+      <edge id="58" source="3" target="62" />
+      <edge id="59" source="3" target="63" />
+      <edge id="60" source="4" target="70" />
+      <edge id="61" source="4" target="71" />
+      <edge id="62" source="4" target="72" />
+      <edge id="63" source="4" target="73" />
+      <edge id="64" source="4" target="74" />
+      <edge id="65" source="4" target="75" />
+      <edge id="66" source="4" target="76" />
+      <edge id="67" source="4" target="77" />
+      <edge id="68" source="4" target="78" />
+      <edge id="69" source="4" target="79" />
+      <edge id="70" source="4" target="80" />
+      <edge id="71" source="4" target="81" />
+      <edge id="72" source="5" target="96" />
+      <edge id="73" source="5" target="97" />
+      <edge id="74" source="5" target="98" />
+      <edge id="75" source="5" target="99" />
+      <edge id="76" source="5" target="100" />
+      <edge id="77" source="5" target="101" />
+      <edge id="78" source="5" target="82" />
+      <edge id="79" source="5" target="83" />
+      <edge id="80" source="5" target="84" />
+      <edge id="81" source="5" target="85" />
+      <edge id="82" source="5" target="86" />
+      <edge id="83" source="5" target="87" />
+      <edge id="84" source="5" target="88" />
+      <edge id="85" source="5" target="89" />
+      <edge id="86" source="5" target="90" />
+      <edge id="87" source="5" target="91" />
+      <edge id="88" source="5" target="92" />
+      <edge id="89" source="5" target="93" />
+      <edge id="90" source="5" target="94" />
+      <edge id="91" source="5" target="95" />
+      <edge id="92" source="7" target="102" />
+      <edge id="93" source="8" target="102" />
+      <edge id="94" source="8" target="7" />
+      <edge id="95" source="9" target="8" />
+      <edge id="96" source="9" target="102" />
+      <edge id="97" source="9" target="103" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,820 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="shortcut icon" href="/images/icons/favicons/fav_logo.ico?6">
+
+<link rel="apple-touch-icon" href="/images/safari_60.png?1">
+<link rel="apple-touch-icon" sizes="76x76" href="/images/safari_76.png?1">
+<link rel="apple-touch-icon" sizes="120x120" href="/images/safari_120.png?1">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/safari_152.png?1">
+
+<meta http-equiv="content-type" content="text/html; charset=windows-1251">
+<meta name="description" content="Alice Moss. Log in or sign up to contact Alice Moss or find more of your friends.">
+
+
+<title>Alice Moss | VK</title>
+
+<noscript><meta http-equiv="refresh" content="0; URL=/badbrowser.php"></noscript>
+
+<link rel="stylesheet" type="text/css" href="/css/al/common.css?34760342997"><link rel="stylesheet" type="text/css" href="/css/al/fonts_cnt.css?1318650823">
+
+<script type="text/javascript" async="" src="https://top-fwz1.mail.ru/js/code.js"></script><script type="text/javascript">
+var vk = {
+  ads_rotate_interval: 120000,
+  al: parseInt('3') || 4,
+  id: 0,
+  intnat: '1' ? true : false,
+  host: 'vk.com',
+  lang: 3,
+  rtl: parseInt('') || 0,
+  version: 5854696063128,
+  stDomains: 0,
+  stDomain: '',
+  stExcludedMasks: ["loader_nav","lang"],
+  zero: false,
+  contlen: 39310,
+  loginscheme: 'https',
+  ip_h: 'fbcc8d33bf0f2ef5a6',
+  navPrefix: '/',
+  dt: parseInt('0') || 0,
+  fs: parseInt('13') || 13,
+  ts: 1528139362,
+  tz: 10800,
+  pd: 0,
+  css_dir: '',
+  vcost: 7,
+  time: [2018, 6, 4, 22, 9, 22],
+  sampleUser: -1, spentLastSendTS: new Date().getTime(),
+  a11y: 0,
+  statusExportHash: '',
+  audioAdsConfig: {"_":"_"},
+  longViewTestGroup: "every_view",
+  cma: 1,
+  postNoEncode: 0,
+  lpConfig: {
+    enabled: 0,
+    key: '',
+    ts: 0,
+    url: '',
+    lpstat: 0
+  },
+
+  pr_tpl: "<div class=\"pr %cls%\" id=\"%id%\"><div class=\"pr_bt\"><\/div><div class=\"pr_bt\"><\/div><div class=\"pr_bt\"><\/div><\/div>",
+
+  audioInlinePlayerTpl: "<div class=\"audio_inline_player _audio_inline_player no_select\">\n  <div class=\"audio_inline_player_right\">\n    <div class=\"audio_inline_player_volume\"><\/div>\n  <\/div>\n  <div class=\"audio_inline_player_left\">\n    <div class=\"audio_inline_player_progress\"><\/div>\n  <\/div>\n<\/div>",
+
+  tnsPixelType: 'unauth'
+};
+
+window.locDomain = vk.host.match(/[a-zA-Z]+\.[a-zA-Z]+\.?$/)[0];
+var _ua = navigator.userAgent.toLowerCase();
+if (/opera/i.test(_ua) || !/msie 6/i.test(_ua) || document.domain != locDomain) document.domain = locDomain;
+var ___htest = (location.toString().match(/#(.*)/) || {})[1] || '', ___to;
+___htest = ___htest.split('#').pop();
+if (vk.al != 1 && ___htest.length && ___htest.substr(0, 1) == vk.navPrefix) {
+  if (vk.al != 3 || vk.navPrefix != '!') {
+    ___to = ___htest.replace(/^(\/|!)/, '');
+    if (___to.match(/^([^\?]*\.php|login|mobile)([^a-z0-9\.]|$)/)) ___to = '';
+    location.replace(location.protocol + '//' + location.host + '/' + ___to);
+  }
+}
+
+var StaticFiles = {
+  'cmodules/web/common_web.js' : {v: 3},
+  'common.css' : {v: 34760342997},'fonts_cnt.css' : {v: 1318650823}
+  ,'lang3_0.js': {v: 25468989},'ui_common.css':{v:16328216615},'ui_common.js':{v:1617946438},'profile.css':{v:19113725802},'page.css':{v:40298145834},'profile.js':{v:610604261},'page.js':{v:1008151050},'emoji.js':{v:2723938640},'post.css':{v:20673313270},'module.css':{v:20013645251},'time_spent.js':{v:732637085},'cmodules/web/page_layout.js':{v:1172409392},'audioplayer.js':{v:5900725812},'cmodules/web/likes.js':{v:1}
+}
+var abp;
+</script>
+
+<link type="text/css" rel="stylesheet" href="/css/al/ui_common.css?16328216615"><link type="text/css" rel="stylesheet" href="/css/al/profile.css?19113725802"><link type="text/css" rel="stylesheet" href="/css/al/page.css?40298145834"><link type="text/css" rel="stylesheet" href="/css/al/post.css?20673313270"><link type="text/css" rel="stylesheet" href="/css/al/module.css?20013645251"><meta property="og:image" content="https://pp.userapi.com/c846217/v846217856/3bbcd/9CZ-B8yxARw.jpg?ava=1"><meta property="og:title" content="Alice Moss"><script type="text/javascript" src="/js/loader_nav5854696063128_3.js"></script><script type="text/javascript" src="/js/cmodules/web/common_web.js?3_68436924118"></script><script type="text/javascript" src="/js/lang3_0.js?25468989"></script><script type="text/javascript" src="/js/lib/px.js?ch=1"></script><script type="text/javascript" src="/js/lib/px.js?ch=2"></script><link rel="meta" type="application/rdf+xml" title="FOAF" href="/foaf.php?id=255678651"><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.vk.com/id255678651"><link rel="alternate" href="android-app://com.vkontakte.android/vkontakte/m.vk.com/id255678651"><script type="text/javascript" src="/js/al/ui_common.js?1617946438"></script><script type="text/javascript" src="/js/al/profile.js?610604261"></script><script type="text/javascript" src="/js/al/page.js?1008151050"></script><script type="text/javascript" src="/js/al/emoji.js?2723938640"></script><script type="text/javascript" src="/js/al/time_spent.js?732637085"></script><script type="text/javascript" src="/js/cmodules/web/page_layout.js?1172409392"></script><script type="text/javascript" src="/js/cmodules/web/audioplayer.js?5900725812"></script><script type="text/javascript" src="/js/cmodules/web/likes.js?1"></script>
+
+<script type="text/javascript" src="/js/al/aes_light.js?1484013701"></script></head>
+
+<body onresize="onBodyResize()" class="firefox" data-useragent="mozilla">
+  <div id="system_msg" class="fixed"></div>
+  <div id="utils"><div id="common_css"></div><div id="fonts_cnt_css"></div><div id="ui_common_css"></div><div id="profile_css"></div><div id="page_css"></div><div id="post_css"></div><div id="module_css"></div><iframe></iframe></div>
+
+  <div id="layer_bg" class="fixed" style="height: 673px;"></div><div id="layer_wrap" class="scroll_fix_wrap fixed layer_wrap" style="width: 1364px; height: 673px;"><div id="layer" style="width: 1353px;"></div></div>
+  <div id="box_layer_bg" class="fixed" style="height: 673px;"></div><div id="box_layer_wrap" class="scroll_fix_wrap fixed" style="width: 1364px; height: 673px;"><div id="box_layer" style="width: 1353px;"><div id="box_loader"><div class="pr pr_baw pr_medium" id="box_loader_pr"><div class="pr_bt"></div><div class="pr_bt"></div><div class="pr_bt"></div></div><div class="back"></div></div></div></div>
+
+  <div id="stl_left" style="width: 181px;"><div id="stl_bg"><nobr id="stl_text">Go up</nobr></div></div><div id="stl_side" style="left: 182px; width: 174.5px; top: 311.867px; height: 361.133px;"></div>
+
+  <script type="text/javascript">window.domStarted && domStarted();</script>
+
+  <div class="scroll_fix_wrap _page_wrap" id="page_wrap"><div><div class="scroll_fix" style="width: 1353px;">
+  
+
+  <div id="page_header_cont" class="page_header_cont">
+    <div class="back"></div>
+    <div id="page_header_wrap" class="page_header_wrap" style="width: 1353px;">
+      <a class="top_back_link" href="" id="top_back_link" onclick="if (nav.go(this, event, {back: true}) === false) { showBackLink(); return false; }" onmousedown="tnActive(this)" style="max-width: 1318px;"></a>
+      <div id="page_header" class="p_head1 p_head_l3" style="width: 960px">
+        <div class="content">
+          <div id="top_nav" class="head_nav">
+  <div class="head_nav_item fl_l"><a class="top_home_link fl_l " href="/" aria-label="Home" accesskey="1"><div class="top_home_logo"></div></a></div>
+  <div class="head_nav_item fl_l"><div id="ts_wrap" class="ts_wrap" onmouseover="TopSearch.initFriendsList();">
+  <input name="disable-autofill" style="display: none;">
+  <div class="input_back_wrap no_select"><div class="input_back" style="margin: 7px 0px 7px 8px; padding: 6px 6px 6px 19px;"><div class="input_back_content" style="width: 210px;">Search</div></div></div><input onmousedown="event.cancelBubble = true;" ontouchstart="event.cancelBubble = true;" class="text ts_input" id="ts_input" autocomplete="off" name="disable-autofill" aria-label="Search" type="text">
+</div></div>
+  <div class="head_nav_item fl_l head_nav_btns"><span id="top_audio_layer_place"></span></div>
+  <div class="head_nav_item fl_r"><a class="top_nav_link" href="" id="top_switch_lang" style="display: none;" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 3, hash: '' }); return false;" onmousedown="tnActive(this)">
+  Switch to English
+</a><a class="top_nav_link" href="/join" id="top_reg_link" style="" onclick="return !showBox('join.php', {act: 'box', from: nav.strLoc}, {}, event)" onmousedown="tnActive(this)">
+  sign up
+</a></div>
+  <div class="head_nav_item_player"></div>
+</div>
+<div id="ts_cont_wrap" class="ts_cont_wrap" ontouchstart="event.cancelBubble = true;" onmousedown="event.cancelBubble = true;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="page_layout" style="width: 960px;">
+    <div id="side_bar" class="side_bar fl_l" style="top: 0px;">
+      <div id="side_bar_inner" class="side_bar_inner">
+        <div id="quick_login" class="quick_login">
+  <div><iframe class="upload_frame" id="quick_login_frame" name="quick_login_frame"></iframe></div><form method="POST" name="login" id="quick_login_form" action="https://login.vk.com/?act=login" target="quick_login_frame">
+    <input name="act" value="login" type="hidden">
+    <input name="role" value="al_frame" type="hidden">
+    <input name="expire" id="quick_expire_input" value="" type="hidden">
+    <input name="recaptcha" id="quick_recaptcha" value="" type="hidden">
+    <input name="captcha_sid" id="quick_captcha_sid" value="" type="hidden">
+    <input name="captcha_key" id="quick_captcha_key" value="" type="hidden">
+    <input name="_origin" value="https://vk.com" type="hidden">
+    <input name="ip_h" value="fbcc8d33bf0f2ef5a6" type="hidden">
+    <input name="lg_h" value="29b88ae4109dac2f41" type="hidden">
+    <div class="label">Phone or email</div>
+    <div class="labeled"><input name="email" class="dark" id="quick_email" type="text"></div>
+    <div class="label">Password</div>
+    <div class="labeled"><input name="pass" class="dark" id="quick_pass" onkeyup="toggle('quick_expire', !!this.value);toggle('quick_forgot', !this.value)" type="password"></div>
+    <input class="submit" type="submit">
+  </form>
+  <button class="quick_login_button flat_button button_wide" id="quick_login_button">Log in</button>
+  <button class="quick_reg_button flat_button button_wide" id="quick_reg_button" style="" onclick="top.showBox('join.php', {act: 'box', from: nav.strLoc})">Sign up</button>
+  <div class="clear forgot"><div class="checkbox" id="quick_expire" onclick="checkbox(this);ge('quick_expire_input').value=isChecked(this)?1:'';">Don't remember me</div><a id="quick_forgot" class="quick_forgot" href="/restore" target="_top">Forgot your password?</a></div>
+</div>
+      </div>
+    </div>
+
+    <div id="page_body" class="fl_r " style="width: 795px;">
+      <div id="header_wrap2">
+        <div id="header_wrap1">
+          <div id="header" style="display: none">
+            <h1 id="title"></h1>
+          </div>
+        </div>
+      </div>
+      <div id="wrap_between"></div>
+      <div id="wrap3"><div id="wrap2">
+  <div id="wrap1">
+    <div id="content" class=""><div id="profile" class="profile_content">
+  
+  <div class="wide_column_right">
+  <div class="narrow_column_wrap">
+    <div class="narrow_column" id="narrow_column" style="margin-top: 0px;">
+      <div class="page_block page_photo">
+  <div class="page_avatar_wrap no_stickers_1april">
+  
+  <aside aria-label="Photo">
+    <div id="page_avatar" class="page_avatar"><a id="profile_photo_link" href="/photo255678651_456243540" onclick="return showPhoto('255678651_456243540', 'album255678651_0/rev', {&quot;temp&quot;:{&quot;base&quot;:&quot;https://pp.userapi.com/&quot;,&quot;x_&quot;:[&quot;c846217/v846217856/3bbc4/QTU7nmyPVk0&quot;,604,466],&quot;y_&quot;:[&quot;c846217/v846217856/3bbc5/68-tSy9vUng&quot;,807,623],&quot;z_&quot;:[&quot;c846217/v846217856/3bbc6/9P4VSSaB9mk&quot;,1072,827]}, jumpTo: {z: 'albums255678651'}}, event)"><img class="page_avatar_img" src="https://pp.userapi.com/c846217/v846217856/3bbcc/fN4pK-9Khdc.jpg?ava=1" alt="Alice  Moss" width="200" height="200"></a></div>
+  </aside>
+</div><aside aria-label="Profile actions">
+  <div class="profile_actions">
+    <div class="guest_actions"><b><a href="/join" class="guest_action_link" onclick="return !showBox('join.php', {act: 'box', from: nav.strLoc}, {}, event)">Join VK now</a></b> to stay in touch with Alice and millions of others.<br>Or <b><a class="guest_action_link" onclick="focusLoginInput()">log in</a></b>, if you have a <b>VK</b> account.</div>
+  </div>
+</aside>
+</div><div class="page_block">
+  <aside aria-label="Noteworthy pages">
+  <div class="module clear page_list_module _module" id="profile_idols">
+    <div class="header_right_link fl_r" "=""></div>
+<a onclick="return Profile.idolsBox(255678651, event);" class="module_header">
+  <div class="header_top clear_fix">
+    <span class="header_label fl_l">Noteworthy pages</span>
+    <span class="header_count fl_l">139</span>
+  </div>
+</a>
+    <div class="module_body clear_fix">
+      <div class="line_cell clear_fix">
+  <a href="/hse_overheard" class="fl_l"><div class="thumb" style="background-image:url(https://pp.userapi.com/c846217/v846217177/f567/GQmNaCi-XqQ.jpg?ava=1)" alt="Подслушано ВШЭ"></div></a>
+  <div class="fl_l desc_info">
+    <div class="group_name"><a href="/hse_overheard">Подслушано ВШЭ</a></div>
+    <div class="group_desc">неофициальная страница, но авторитетней официальной</div>
+  </div>
+</div><div class="line_cell clear_fix">
+  <a href="/conceptual_vandalism" class="fl_l"><div class="thumb" style="background-image:url(https://pp.userapi.com/c834202/v834202477/647dc/txZCgtT2fjk.jpg?ava=1)" alt="концептуальный вандализм"></div></a>
+  <div class="fl_l desc_info">
+    <div class="group_name"><a href="/conceptual_vandalism">концептуальный вандализм</a></div>
+    <div class="group_desc">использование образов и вежливых слов</div>
+  </div>
+</div><div class="line_cell clear_fix">
+  <a href="/holodok02" class="fl_l"><div class="thumb" style="background-image:url(https://pp.userapi.com/c841325/v841325492/56900/pn-IawMFqcI.jpg?ava=1)" alt="несвоевременные размышления"></div></a>
+  <div class="fl_l desc_info">
+    <div class="group_name"><a href="/holodok02">несвоевременные размышления</a></div>
+    <div class="group_desc">холодок бежит за ворот</div>
+  </div>
+</div><div class="line_cell clear_fix">
+  <a href="/muzstorona" class="fl_l"><div class="thumb" style="background-image:url(https://pp.userapi.com/c629208/v629208572/3f726/Vl5-tckMMI0.jpg?ava=1)" alt="СТОРОНА"></div></a>
+  <div class="fl_l desc_info">
+    <div class="group_name"><a href="/muzstorona">СТОРОНА</a></div>
+    <div class="group_desc">9 июня вечер Стороны в Бэкграунд на Столешниковом</div>
+  </div>
+</div><a href="/vechno_xvii" class="line_cell clear_fix">
+  <div class="fl_l thumb" style="background-image:url(https://sun1-17.userapi.com/c840435/v840435838/6c6bf/hNwiHh5RcW8.jpg?ava=1)" alt="вечно XVII"></div>
+  <div class="fl_l info">
+    вечно XVII
+  </div>
+</a>
+    </div>
+    
+  </div>
+</aside>
+</div>
+    </div>
+  </div>
+  <div class="wide_column_wrap">
+    <div class="wide_column" id="wide_column">
+      <div class="page_block">
+  <div id="page_info_wrap" class="page_info_wrap "><div class="page_top">
+  <div class="_profile_online profile_online is_online"><div class="profile_online_lv">Online<b class="mob_onl profile_mob_onl unshown" id="profile_mobile_online" onclick="mobilePromo();" onmouseover="mobileOnlineTip(this, {mid: cur.oid, right: 1})"></b></div> </div>
+  <h2 class="page_name">Alice  Moss</h2>
+  <div class="page_current_info" id="page_current_info"><span class="current_text">reverse shibboleth</span></div>
+</div><div class="profile_info profile_info_short" id="profile_short">
+  <div class="clear_fix profile_info_row ">
+  <div class="label fl_l">Birthday:</div>
+  <div class="labeled"><a href="/search?c[section]=people&amp;c[bday]=15&amp;c[bmonth]=12">December 15</a></div>
+</div>
+</div>
+<div class="profile_info profile_info_full" id="profile_full">
+  
+</div></div><div class="counts_module"><a class="page_counter" href="#" onclick="return cur.needLoginBox()">
+  <div class="count">120</div>
+  <div class="label">followers</div>
+</a><a class="page_counter" href="/albums255678651?profile=1" onclick="return cur.needLoginBox()">
+  <div class="count">2</div>
+  <div class="label">photos</div>
+</a></div>
+</div>  <div class="page_block">
+    
+  </div>
+<div class="wall_module" id="profile_wall">
+  <div class="page_block">
+    <h2 class="page_block_h2 ">
+  <ul class="ui_tabs clear_fix  ui_tabs_with_progress" onmouseover="uiTabs.tryInit(this)" id="wall_tabs">
+    <li>
+  <a href="/wall255678651" class="ui_tab ui_tab_sel" onclick="return wall.switchWall(this, event, 'all');">
+    All posts
+  </a>
+</li><li>
+  <a href="/wall255678651?own=1" class="ui_tab" onclick="return wall.switchWall(this, event, 'own');">
+    Posts by Alice
+  </a>
+</li><li class="ui_tab_search_wrap">
+  <a class="ui_tab_plain ui_tab_search" onclick="return uiTabs.showSearch(this, event);" href="/wall255678651?search=1"><span class="blind_label">Search</span></a>
+  <div class="ui_search ui_search_field_empty _wrap">
+  <div class="ui_search_input_block">
+    <div class="ui_search_reset" onclick="return uiSearch.reset(this, false, event);">
+      <span class="blind_label">Cancel</span>
+    </div>
+    
+    <input class="ui_search_field _field" id="wall_search" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="Enter a word or phrase here.." type="text">
+    
+  </div>
+  <div class="ui_search_filters_pane" style="display: none;">
+    <div class="ui_search_filters"></div>
+    <div class="ui_search_filters_reset" onclick="return uiSearch.removeAllFilters(this);"></div>
+  </div>
+</div>
+</li><li>
+  <div class="ui_tab_plain ui_tabs_progress" role="link">
+    
+    
+  </div>
+</li>
+    <div class="ui_tabs_slider _ui_tabs_slider"></div>
+  </ul>
+</h2>
+  </div>
+  <div id="page_wall_posts" class="wall_posts all" style=""><input id="page_wall_count_all" value="4" type="hidden"><input id="page_wall_count_own" value="4" type="hidden"><div id="post255678651_698" class="_post post page_block all own post_fixed post_copy" data-post-id="255678651_698" onclick="wall.postClick('255678651_698', event);" post_view_hash="88e264dc5c808f631a" data-copy="-38442606_32194">
+  <div class="_post_content">
+    
+    <div class="post_header">
+      <a class="post_image _online online" href="/id255678651">
+        <img src="https://pp.userapi.com/c846217/v846217856/3bbd0/KcG2_Yi_X9o.jpg?ava=1" data-post-id="255678651_698" data-post-click-type="post_owner_img" class="post_img" width="50" height="50">
+        <span class="blind_label">.</span>
+      </a>
+      
+      <div class="post_header_info">
+        <h5 class="post_author"><a class="author" href="/id255678651" data-from-id="255678651" data-post-id="255678651_698" data-post-click-type="post_owner_link">Alice Moss</a> <span class="explain"><span class="wall_fixed_label">&nbsp;pinned post</span></span></h5>
+        <div class="post_date"><a class="post_link" href="/wall255678651_698" onclick="return showWiki({w: 'wall255678651_698'}, false, event);"><span class="rel_date">21 May at 10:05 pm</span></a></div>
+        <div class="ui_actions_menu_wrap _ui_menu_wrap " onmouseover="uiActionsMenu.show(this);" onmouseout="uiActionsMenu.hide(this);">
+  <div class="ui_actions_menu_icons" tabindex="0" aria-label="Actions" role="button" onclick="uiActionsMenu.keyToggle(this, event);"><span class="blind_label">Actions</span></div>
+  <div class="ui_actions_menu _ui_menu"><a class="ui_actions_menu_item" onclick="wall.markAsSpam(this, '255678651_698', '4a90f6edb3f66f29da');" tabindex="0" role="link">Report</a></div>
+</div>
+      </div>
+    </div>
+    <div class="post_content">
+      <div class="post_info">
+        <div class="wall_text"><div id="wpt255678651_698" class="wall_post_cont _wall_post_cont"></div><div class="copy_quote"><div class="copy_post_header">
+    <a class="copy_post_image" data-post-id="-38442606_32194" data-parent-post-id="255678651_698" href="/glubokomis">
+      <img src="https://pp.userapi.com/c624824/v624824247/423f4/vDKjlDiI2AE.jpg?ava=1" class="copy_post_img" width="40" height="40">
+      <span class="blind_label">.</span>
+    </a>
+    <div class="copy_post_header_info">
+      <h5 class="copy_post_author"><a class="copy_author" data-post-id="-38442606_32194" data-parent-post-id="255678651_698" href="/glubokomis">ЛУКОШКО РОССИЙСКОГО ГЛУБОКОМЫСЛИЯ</a> </h5>
+      <div class="copy_post_date"><a class="published_by_date" href="/wall-38442606_32194" onclick="return showWiki({w: 'wall-38442606_32194'}, false, event);">Apr 22, 2018 at 5:53 pm</a></div>
+    </div>
+</div><div class="wall_post_text">Из воспоминаний о Тургеневе в молодости (не зря Кручёных увидел в нём провозвестника футуризма):<br><br>«Самым позорным состоянием, в какое может попасть смертный, считал он в то время то состояние, когда человек походит на других. Он спасался от этой страшной участи, навязывая себе невозможные качества и особенности, даже пороки, лишь бы только они способствовали к его отличию от окружающих. Он усваивал своей физиономии черты, не вязавшиеся с ее добродушным, почти нежным выражением. Конечно, он никого не обманывал надолго, да и сам позабывал скоро черты, которые себе приписывал. Случалось, что он изумлялся собственным словам и относил их к клевете, когда их повторяли перед ним по прошествии некоторого времени. Так он называл клеветой свое заявление, будто перед великими произведениями искусства, живописи, скульптуры, музыки он чувствует зуд под коленами и ощущает, как икры его ног обращаются в треугольники, – однако же заявление было сделано».</div><div class="page_post_sized_thumbs  clear_fix" style="width: 367px; height: 510px;"><a onclick="return showPhoto('-38442606_456240612', 'wall255678651_698', {&quot;temp&quot;:{&quot;base&quot;:&quot;https://pp.userapi.com/&quot;,&quot;x_&quot;:[&quot;c824602/v824602532/115a66/Pq1fbhaHfoI&quot;,435,604],&quot;y_&quot;:[&quot;c824602/v824602532/115a67/YcZH5BZjn-w&quot;,581,807],&quot;z_&quot;:[&quot;c824602/v824602532/115a68/lNcxVRE7mqA&quot;,778,1080],&quot;w_&quot;:[&quot;c824602/v824602532/115a69/LZEps0XMLMs&quot;,1369,1900]},queue:1}, event)" style="width: 367px; height: 510px;background-image: url(https://pp.userapi.com/c824602/v824602532/115a66/Pq1fbhaHfoI.jpg);" class="page_post_thumb_wrap image_cover  page_post_thumb_last_column page_post_thumb_last_row"></a></div><div class="wall_audio_rows _wall_audio_rows"><div tabindex="0" class="audio_row audio_row_with_cover _audio_row _audio_row_2000125355_456242022 audio_can_add audio_hq" data-full-id="2000125355_456242022" onclick="return getAudioPlayer().toggleAudio(this, event)" data-audio="[456242022,2000125355,&quot;&quot;,&quot;Я человек живущий в кастрюле&quot;,&quot;АЛЕКСАНДР ГОГОЛЕВ&quot;,160,0,0,&quot;&quot;,0,18,&quot;user_wall:255678651_698&quot;,&quot;[]&quot;,&quot;eb83c0f3e684fe0c08\/\/4f66de9ad0baf97285\/\/&quot;,&quot;&quot;,{&quot;duration&quot;:160,&quot;content_id&quot;:&quot;2000125355_456242022&quot;,&quot;puid22&quot;:7,&quot;_SITEID&quot;:276,&quot;vk_id&quot;:0,&quot;ver&quot;:251116},&quot;&quot;,&quot;&quot;,&quot;&quot;]" onmouseover="AudioUtils.onRowOver(this, event)" onmouseleave="AudioUtils.onRowLeave(this, event)">
+  <div class="audio_row_content _audio_row_content">
+    <button class="blind_label _audio_row__play_btn" aria-label="Play" onclick="getAudioPlayer().toggleAudio(this, event); return cancelEvent(event)"></button>
+
+    <div class="audio_row__cover" style=""></div>
+    <div class="audio_row__cover_back _audio_row__cover_back"></div>
+    <div class="audio_row__cover_icon _audio_row__cover_icon"></div>
+    <div class="audio_row__counter"></div>
+    <div class="audio_row__play_btn"></div>
+
+    <div class="audio_row__inner">
+      <div class="audio_row__performer_title">
+        <div onmouseover="setTitle(this)" class="audio_row__performers"><a href="/audio?performer=1&amp;q=%D0%90%D0%9B%D0%95%D0%9A%D0%A1%D0%90%D0%9D%D0%94%D0%A0%20%D0%93%D0%9E%D0%93%D0%9E%D0%9B%D0%95%D0%92">АЛЕКСАНДР ГОГОЛЕВ</a></div>
+        <div class="audio_row__title _audio_row__title" onmouseover="setTitle(this)">
+          <span class="audio_row__title_inner _audio_row__title_inner">Я человек живущий в кастрюле</span>
+          <span class="audio_row__title_inner_subtitle _audio_row__title_inner_subtitle"></span>
+        </div>
+      </div>
+      <div class="audio_row__info _audio_row__info"><div class="audio_row__duration _audio_row__duration">2:40</div></div>
+    </div>
+
+    <div class="audio_player__place _audio_player__place"></div>
+  </div>
+</div></div></div></div>
+        <div class="like_wrap _like_wall255678651_698 ">
+  <div class="like_cont ">
+    <div class="like_btns">
+      <a class="like_btn like _like" onclick="Likes.toggle(this, event, 'wall255678651_698', 'baa9c3099214d223a9');" onmouseover="Likes.showLikes(this, 'wall255678651_698', {})" data-count="1" href="#" title="Like">
+  <div class="like_button_icon"></div>
+  <div class="like_button_label"></div>
+  <div class="like_button_count">1</div>
+  <span class="blind_label">Like</span>
+</a>
+<span class="blind_label" tabindex="0" role="link" onclick="Likes.showLikesList(this, 'wall255678651_698')">Show likes</span><a class="like_btn share _share empty" onclick="Likes.share('wall255678651_698', {}); return false;" onmouseover="Likes.showShare(this, 'wall255678651_698');" data-count="0" href="#" title="Share">
+  <div class="like_button_icon"></div>
+  <div class="like_button_label"></div>
+  <div class="like_button_count"></div>
+  <span class="blind_label">Share</span>
+</a>
+<span class="blind_label" tabindex="0" role="link" onclick="Likes.showSharesList(this, 'wall255678651_698')">Show shared copies</span>
+      
+    </div>
+    <div class="like_views _views" onmouseover="Likes.updateViews('wall255678651_698');">197</div>
+    
+  </div>
+</div>
+        <div class="replies"><div class="replies_wrap" id="replies_wrap255678651_698" style="display: none">
+  <div class="replies_list _replies_list" id="replies255678651_698"><input id="start_reply255678651_698" value="" type="hidden"></div>
+  
+</div></div>
+      </div>
+    </div>
+    
+  </div>
+</div><div id="post255678651_695" class="_post post page_block all own post_copy" data-post-id="255678651_695" onclick="wall.postClick('255678651_695', event);" post_view_hash="88e264dc5c808f631a" data-copy="-90413994_50901">
+  <div class="_post_content">
+    
+    <div class="post_header">
+      <a class="post_image _online online" href="/id255678651">
+        <img src="https://pp.userapi.com/c846217/v846217856/3bbd0/KcG2_Yi_X9o.jpg?ava=1" data-post-id="255678651_695" data-post-click-type="post_owner_img" class="post_img" width="50" height="50">
+        <span class="blind_label">.</span>
+      </a>
+      
+      <div class="post_header_info">
+        <h5 class="post_author"><a class="author" href="/id255678651" data-from-id="255678651" data-post-id="255678651_695" data-post-click-type="post_owner_link">Alice Moss</a> <span class="explain"><span class="wall_fixed_label">&nbsp;pinned post</span></span></h5>
+        <div class="post_date"><a class="post_link" href="/wall255678651_695" onclick="return showWiki({w: 'wall255678651_695'}, false, event);"><span class="rel_date">16 May at 8:44 pm</span></a></div>
+        <div class="ui_actions_menu_wrap _ui_menu_wrap " onmouseover="uiActionsMenu.show(this);" onmouseout="uiActionsMenu.hide(this);">
+  <div class="ui_actions_menu_icons" tabindex="0" aria-label="Actions" role="button" onclick="uiActionsMenu.keyToggle(this, event);"><span class="blind_label">Actions</span></div>
+  <div class="ui_actions_menu _ui_menu"><a class="ui_actions_menu_item" onclick="wall.markAsSpam(this, '255678651_695', '8f5bbbe180b29614a8');" tabindex="0" role="link">Report</a></div>
+</div>
+      </div>
+    </div>
+    <div class="post_content">
+      <div class="post_info">
+        <div class="wall_text"><div id="wpt255678651_695" class="wall_post_cont _wall_post_cont"></div><div class="copy_quote"><div class="copy_post_header">
+    <a class="copy_post_image" data-post-id="-90413994_50901" data-parent-post-id="255678651_695" href="/2d_here">
+      <img src="https://pp.userapi.com/c636630/v636630571/45025/73PlRiXhJH8.jpg?ava=1" class="copy_post_img" width="40" height="40">
+      <span class="blind_label">.</span>
+    </a>
+    <div class="copy_post_header_info">
+      <h5 class="copy_post_author"><a class="copy_author" data-post-id="-90413994_50901" data-parent-post-id="255678651_695" href="/2d_here">2D Among Us</a> </h5>
+      <div class="copy_post_date"><a class="published_by_date" href="/wall-90413994_50901" onclick="return showWiki({w: 'wall-90413994_50901'}, false, event);">Apr 11, 2018 at 6:17 pm</a></div>
+    </div>
+</div><div class="wall_post_text">По ту сторону изгороди / Over the Garden Wall</div><div class="page_post_sized_thumbs  clear_fix" style="width: 496px; height: 326px;"><a onclick="return showPhoto('-90413994_456243218', 'wall255678651_695', {&quot;temp&quot;:{&quot;base&quot;:&quot;https://pp.userapi.com/&quot;,&quot;x_&quot;:[&quot;c830209/v830209998/cec2e/nXPuNhrBoJA&quot;,604,398],&quot;y_&quot;:[&quot;c830209/v830209998/cec2f/pXfMpMYs0ek&quot;,807,532],&quot;z_&quot;:[&quot;c830209/v830209998/cec30/yAWXJEqUEYs&quot;,1280,844],&quot;w_&quot;:[&quot;c830209/v830209998/cec31/ZZnvklDAuqY&quot;,2502,1650]},queue:1}, event)" style="width: 496px; height: 327px;background-image: url(https://pp.userapi.com/c830209/v830209998/cec2e/nXPuNhrBoJA.jpg);" class="page_post_thumb_wrap image_cover  page_post_thumb_last_column page_post_thumb_last_row"></a></div></div></div>
+        <div class="like_wrap _like_wall255678651_695 ">
+  <div class="like_cont ">
+    <div class="like_btns">
+      <a class="like_btn like _like" onclick="Likes.toggle(this, event, 'wall255678651_695', 'bf397816c64dac17bc');" onmouseover="Likes.showLikes(this, 'wall255678651_695', {})" data-count="4" href="#" title="Like">
+  <div class="like_button_icon"></div>
+  <div class="like_button_label"></div>
+  <div class="like_button_count">4</div>
+  <span class="blind_label">Like</span>
+</a>
+<span class="blind_label" tabindex="0" role="link" onclick="Likes.showLikesList(this, 'wall255678651_695')">Show likes</span><a class="like_btn share _share empty" onclick="Likes.share('wall255678651_695', {}); return false;" onmouseover="Likes.showShare(this, 'wall255678651_695');" data-count="0" href="#" title="Share">
+  <div class="like_button_icon"></div>
+  <div class="like_button_label"></div>
+  <div class="like_button_count"></div>
+  <span class="blind_label">Share</span>
+</a>
+<span class="blind_label" tabindex="0" role="link" onclick="Likes.showSharesList(this, 'wall255678651_695')">Show shared copies</span>
+      
+    </div>
+    <div class="like_views _views" onmouseover="Likes.updateViews('wall255678651_695');">266</div>
+    
+  </div>
+</div>
+        <div class="replies"><div class="replies_wrap" id="replies_wrap255678651_695" style="display: none">
+  <div class="replies_list _replies_list" id="replies255678651_695"><input id="start_reply255678651_695" value="" type="hidden"></div>
+  
+</div></div>
+      </div>
+    </div>
+    
+  </div>
+</div><div id="post255678651_675" class="_post post page_block all own post_copy" data-post-id="255678651_675" onclick="wall.postClick('255678651_675', event);" post_view_hash="88e264dc5c808f631a" data-copy="272811785_1674">
+  <div class="_post_content">
+    
+    <div class="post_header">
+      <a class="post_image _online online" href="/id255678651">
+        <img src="https://pp.userapi.com/c846217/v846217856/3bbd0/KcG2_Yi_X9o.jpg?ava=1" data-post-id="255678651_675" data-post-click-type="post_owner_img" class="post_img" width="50" height="50">
+        <span class="blind_label">.</span>
+      </a>
+      
+      <div class="post_header_info">
+        <h5 class="post_author"><a class="author" href="/id255678651" data-from-id="255678651" data-post-id="255678651_675" data-post-click-type="post_owner_link">Alice Moss</a> <span class="explain"><span class="wall_fixed_label">&nbsp;pinned post</span></span></h5>
+        <div class="post_date"><a class="post_link" href="/wall255678651_675" onclick="return showWiki({w: 'wall255678651_675'}, false, event);"><span class="rel_date">8 Mar at 10:50 pm</span></a></div>
+        <div class="ui_actions_menu_wrap _ui_menu_wrap " onmouseover="uiActionsMenu.show(this);" onmouseout="uiActionsMenu.hide(this);">
+  <div class="ui_actions_menu_icons" tabindex="0" aria-label="Actions" role="button" onclick="uiActionsMenu.keyToggle(this, event);"><span class="blind_label">Actions</span></div>
+  <div class="ui_actions_menu _ui_menu"><a class="ui_actions_menu_item" onclick="wall.markAsSpam(this, '255678651_675', '20001ddf9b5fc1d80d');" tabindex="0" role="link">Report</a></div>
+</div>
+      </div>
+    </div>
+    <div class="post_content">
+      <div class="post_info">
+        <div class="wall_text"><div id="wpt255678651_675" class="wall_post_cont _wall_post_cont"><div class="published_comment"><div class="wall_post_text">эта симфония полна смысла</div></div></div><div class="copy_quote"><div class="copy_post_header">
+    <a class="copy_post_image" data-post-id="272811785_1674" data-parent-post-id="255678651_675" href="/grachick2">
+      <img src="https://pp.userapi.com/c824701/v824701282/8737c/S571Kg5xNPg.jpg?ava=1" class="copy_post_img" width="40" height="40">
+      <span class="blind_label">.</span>
+    </a>
+    <div class="copy_post_header_info">
+      <h5 class="copy_post_author"><a class="copy_author" data-post-id="272811785_1674" data-parent-post-id="255678651_675" href="/grachick2">Arlen Grove</a> </h5>
+      <div class="copy_post_date"><a class="published_by_date" href="/wall272811785_1674" onclick="return showWiki({w: 'wall272811785_1674'}, false, event);">Mar 8, 2018 at 10:49 pm</a></div>
+    </div>
+</div><div class="wall_post_text"><a href="/id255678651" class="mem_link" mention="" mention_id="id255678651" onclick="return mentionClick(this, event)" onmouseover="mentionOver(this)">братишка-котишка</a></div></div></div>
+        <div class="like_wrap _like_wall255678651_675 ">
+  <div class="like_cont ">
+    <div class="like_btns">
+      <a class="like_btn like _like" onclick="Likes.toggle(this, event, 'wall255678651_675', 'fa4b7884bd73403e8f');" onmouseover="Likes.showLikes(this, 'wall255678651_675', {})" data-count="3" href="#" title="Like">
+  <div class="like_button_icon"></div>
+  <div class="like_button_label"></div>
+  <div class="like_button_count">3</div>
+  <span class="blind_label">Like</span>
+</a>
+<span class="blind_label" tabindex="0" role="link" onclick="Likes.showLikesList(this, 'wall255678651_675')">Show likes</span><a class="like_btn share _share empty" onclick="Likes.share('wall255678651_675', {}); return false;" onmouseover="Likes.showShare(this, 'wall255678651_675');" data-count="0" href="#" title="Share">
+  <div class="like_button_icon"></div>
+  <div class="like_button_label"></div>
+  <div class="like_button_count"></div>
+  <span class="blind_label">Share</span>
+</a>
+<span class="blind_label" tabindex="0" role="link" onclick="Likes.showSharesList(this, 'wall255678651_675')">Show shared copies</span>
+      
+    </div>
+    <div class="like_views _views" onmouseover="Likes.updateViews('wall255678651_675');">847</div>
+    
+  </div>
+</div>
+        <div class="replies"><div class="replies_wrap" id="replies_wrap255678651_675" style="display: none">
+  <div class="replies_list _replies_list" id="replies255678651_675"><input id="start_reply255678651_675" value="" type="hidden"></div>
+  
+</div></div>
+      </div>
+    </div>
+    
+  </div>
+</div><div id="post255678651_405" class="_post post page_block all own post_copy" data-post-id="255678651_405" onclick="wall.postClick('255678651_405', event);" post_view_hash="88e264dc5c808f631a" data-copy="328734318_375">
+  <div class="_post_content">
+    
+    <div class="post_header">
+      <a class="post_image _online online" href="/id255678651">
+        <img src="https://pp.userapi.com/c846217/v846217856/3bbd0/KcG2_Yi_X9o.jpg?ava=1" data-post-id="255678651_405" data-post-click-type="post_owner_img" class="post_img" width="50" height="50">
+        <span class="blind_label">.</span>
+      </a>
+      
+      <div class="post_header_info">
+        <h5 class="post_author"><a class="author" href="/id255678651" data-from-id="255678651" data-post-id="255678651_405" data-post-click-type="post_owner_link">Alice Moss</a> <span class="explain"><span class="wall_fixed_label">&nbsp;pinned post</span></span></h5>
+        <div class="post_date"><a class="post_link" href="/wall255678651_405" onclick="return showWiki({w: 'wall255678651_405'}, false, event);"><span class="rel_date">14 Oct 2016</span></a></div>
+        <div class="ui_actions_menu_wrap _ui_menu_wrap " onmouseover="uiActionsMenu.show(this);" onmouseout="uiActionsMenu.hide(this);">
+  <div class="ui_actions_menu_icons" tabindex="0" aria-label="Actions" role="button" onclick="uiActionsMenu.keyToggle(this, event);"><span class="blind_label">Actions</span></div>
+  <div class="ui_actions_menu _ui_menu"><a class="ui_actions_menu_item" onclick="wall.markAsSpam(this, '255678651_405', '25a4555d896be1a0f6');" tabindex="0" role="link">Report</a></div>
+</div>
+      </div>
+    </div>
+    <div class="post_content">
+      <div class="post_info">
+        <div class="wall_text"><div id="wpt255678651_405" class="wall_post_cont _wall_post_cont"></div><div class="copy_quote"><div class="copy_post_header">
+    <a class="copy_post_image" data-post-id="328734318_375" data-parent-post-id="255678651_405" href="/w.dust">
+      <img src="https://pp.userapi.com/c834302/v834302909/135bc0/GIdnoMkEHKE.jpg?ava=1" class="copy_post_img" width="40" height="40">
+      <span class="blind_label">.</span>
+    </a>
+    <div class="copy_post_header_info">
+      <h5 class="copy_post_author"><a class="copy_author" data-post-id="328734318_375" data-parent-post-id="255678651_405" href="/w.dust">Avrora Vedrova</a> <span class="explain">deleted her profile saying:</span></h5>
+      <div class="copy_post_date"><a class="published_by_date" href="/wall328734318_375" onclick="return showWiki({w: 'wall328734318_375'}, false, event);">Oct 14, 2016 at 2:08 pm</a></div>
+    </div>
+</div><div class="wall_post_text">Тайное мировое правительство, иллюминаты и сионисты охотятся за моими личными данными. Я ухожу в подполье. Alice Moss и Arlen Grove, вы пожалеете.)</div></div></div>
+        <div class="like_wrap _like_wall255678651_405 ">
+  <div class="like_cont ">
+    <div class="like_btns">
+      <a class="like_btn like _like" onclick="Likes.toggle(this, event, 'wall255678651_405', 'b42db2b3b870e24a3b');" onmouseover="Likes.showLikes(this, 'wall255678651_405', {})" data-count="11" href="#" title="Like">
+  <div class="like_button_icon"></div>
+  <div class="like_button_label"></div>
+  <div class="like_button_count">11</div>
+  <span class="blind_label">Like</span>
+</a>
+<span class="blind_label" tabindex="0" role="link" onclick="Likes.showLikesList(this, 'wall255678651_405')">Show likes</span><a class="like_btn share _share empty" onclick="Likes.share('wall255678651_405', {}); return false;" onmouseover="Likes.showShare(this, 'wall255678651_405');" data-count="0" href="#" title="Share">
+  <div class="like_button_icon"></div>
+  <div class="like_button_label"></div>
+  <div class="like_button_count"></div>
+  <span class="blind_label">Share</span>
+</a>
+<span class="blind_label" tabindex="0" role="link" onclick="Likes.showSharesList(this, 'wall255678651_405')">Show shared copies</span>
+      
+    </div>
+    <div class="like_views _views" onmouseover="Likes.updateViews('wall255678651_405');"></div>
+    
+  </div>
+</div>
+        <div class="replies"><div class="replies_wrap" id="replies_wrap255678651_405" style="">
+  <div class="replies_list _replies_list" id="replies255678651_405"><input id="start_reply255678651_405" value="406" type="hidden"><div id="post255678651_406" class="reply reply_dived clear  _post" data-post-id="255678651_406">
+  <div class="reply_wrap _reply_content _post_content clear_fix">
+    
+    <a class="reply_image" href="/id255678651">
+      <img src="https://pp.userapi.com/c846217/v846217856/3bbd0/KcG2_Yi_X9o.jpg?ava=1" class="reply_img" alt="Alice Moss" width="40" height="40">
+    </a>
+    <div class="reply_content">
+      
+      <div class="reply_author">
+        <a class="author" href="/id255678651" data-from-id="255678651">Alice Moss</a>
+      </div>
+      <div class="reply_text"><div id="wpt255678651_406"><div class="page_post_sized_thumbs  clear_fix" style="width: 214px; height: 76px;"><a onclick="return showPhoto('255678651_431978896', 'wall255678651_406', {&quot;temp&quot;:{&quot;base&quot;:&quot;https://pp.userapi.com/&quot;,&quot;x_&quot;:[&quot;c637916/v637916318/166c0/Muqj_eYlYpU&quot;,214,76]},queue:1}, event)" style="width: 214px; height: 76px;background-image: url(https://pp.userapi.com/c637916/v637916318/166c0/Muqj_eYlYpU.jpg);" class="page_post_thumb_wrap image_cover  page_post_thumb_last_column page_post_thumb_last_row"></a></div></div></div>
+      <div class="reply_footer clear_fix" id="wpe_bottom255678651_406">
+        <div class="like_wrap _like_wall_reply255678651_406  lite">
+  <div class="like_cont ">
+    <div class="like_btns">
+      <a class="like_btn like _like" onclick="Likes.toggle(this, event, 'wall_reply255678651_406', '9c8c285eece7b6d525');" onmouseover="Likes.showLikes(this, 'wall_reply255678651_406', {})" data-count="9" href="#" title="Like">
+  <div class="like_button_icon"></div>
+  <div class="like_button_label"></div>
+  <div class="like_button_count">9</div>
+  <span class="blind_label">Like</span>
+</a>
+<span class="blind_label" tabindex="0" role="link" onclick="Likes.showLikesList(this, 'wall_reply255678651_406')">Show likes</span>
+      
+    </div>
+    <div class="like_views _views" onmouseover="Likes.updateViews('wall_reply255678651_406');"></div>
+    
+  </div>
+</div>
+        <div class="reply_date"><a class="wd_lnk" href="/wall255678651_405?reply=406" onclick="return showWiki({w: 'wall255678651_405', reply: '406'}, false, event);"><span class="rel_date">14 Oct 2016</span></a></div>
+        
+      </div>
+    </div>
+  </div>
+</div><div id="post255678651_656" class="reply reply_dived clear  _post" data-post-id="255678651_656">
+  <div class="reply_wrap _reply_content _post_content clear_fix">
+    
+    <a class="reply_image" href="/grachick2">
+      <img src="https://pp.userapi.com/c824701/v824701282/8737c/S571Kg5xNPg.jpg?ava=1" class="reply_img" alt="Arlen Grove" width="40" height="40">
+    </a>
+    <div class="reply_content">
+      
+      <div class="reply_author">
+        <a class="author" href="/grachick2" data-from-id="272811785">Arlen Grove</a>
+      </div>
+      <div class="reply_text"><div id="wpt255678651_656"><div class="wall_reply_text">Купи мне бургеры</div></div></div>
+      <div class="reply_footer clear_fix" id="wpe_bottom255678651_656">
+        <div class="like_wrap _like_wall_reply255678651_656  lite">
+  <div class="like_cont ">
+    <div class="like_btns">
+      <a class="like_btn like _like empty" onclick="Likes.toggle(this, event, 'wall_reply255678651_656', '71a6d3a7b721e74d1e');" onmouseover="Likes.showLikes(this, 'wall_reply255678651_656', {})" data-count="0" href="#" title="Like">
+  <div class="like_button_icon"></div>
+  <div class="like_button_label"></div>
+  <div class="like_button_count"></div>
+  <span class="blind_label">Like</span>
+</a>
+<span class="blind_label" tabindex="0" role="link" onclick="Likes.showLikesList(this, 'wall_reply255678651_656')">Show likes</span>
+      
+    </div>
+    <div class="like_views _views" onmouseover="Likes.updateViews('wall_reply255678651_656');"></div>
+    
+  </div>
+</div>
+        <div class="reply_date"><a class="wd_lnk" href="/wall255678651_405?reply=656" onclick="return showWiki({w: 'wall255678651_405', reply: '656'}, false, event);"><span class="rel_date">5 Nov 2017</span></a></div>
+        
+      </div>
+    </div>
+  </div>
+</div></div>
+  
+</div></div>
+      </div>
+    </div>
+    
+  </div>
+</div><div class="page_block no_posts">
+  <div class="no_posts_cover"></div>
+  This wall is empty.
+</div></div><div id="page_search_posts" class="wall_posts wall_posts_search"></div><button class="flat_button secondary_dark more_link" id="wall_more_link" onclick="wall.showMore(10);" style="display: none;">previous posts</button>
+</div>
+    </div>
+  </div>
+</div>
+</div></div>
+  </div>
+</div></div>
+    </div>
+
+    <div id="footer_wrap" class="footer_wrap fl_r" style="width: 795px;"><div class="footer_nav" id="bottom_nav">
+  <div class="footer_copy fl_l"><a href="/about">VK</a> © 2018</div>
+  <div class="footer_lang fl_r">Language:<a class="footer_lang_link" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 3, hash: '4e9f8df64ab3319706'})">English</a><a class="footer_lang_link" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 0, hash: '4e9f8df64ab3319706'})">Русский</a><a class="footer_lang_link" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 1, hash: '4e9f8df64ab3319706'})">Українська</a><a class="footer_lang_link" onclick="if (vk.al) { showBox('lang.php', {act: 'lang_dialog', all: 1}, {params: {dark: true, bodyStyle: 'padding: 0px'}, noreload: true}); } else { changeLang(1); } return false;">all languages »</a></div>
+  <div class="footer_links">
+    <a class="bnav_a" href="/about">about</a>
+    <a class="bnav_a" href="/support?act=home" style="display: none;">support</a>
+    <a class="bnav_a" href="/terms">terms</a>
+    <a class="bnav_a" href="/ads" style="display: none;">advertising</a>
+    
+    <a class="bnav_a" href="/dev">developers</a>
+    <a class="bnav_a" href="/jobs" style="display: none;">jobs</a>
+  </div>
+</div>
+
+<div class="footer_bench clear">
+  
+</div></div>
+    <div class="clear"></div>
+  </div>
+</div></div><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=2579437;js=na" style="border:0;" height="1" width="1" />
+</div></noscript></div>
+  <div class="progress" id="global_prg"></div>
+
+  <script type="text/javascript">
+    if (parent && parent != window && (browser.msie || browser.opera || browser.mozilla || browser.chrome || browser.safari || browser.iphone)) {
+      document.getElementsByTagName('body')[0].innerHTML = '';
+    } else {
+      window.domReady && domReady();
+      updateMoney(0);
+initPageLayoutUI();
+if (browser.iphone || browser.ipad || browser.ipod) {
+  setStyle(bodyNode, {webkitTextSizeAdjust: 'none'});
+}var qf = ge('quick_login_form'), ql = ge('quick_login'), qe = ge('quick_email'), qp = ge('quick_pass');
+var qlb = ge('quick_login_button'), prgBtn = qlb;
+
+var qinit = function() {
+  setTimeout(function() {
+    ql.insertBefore(ce('div', {innerHTML: '<iframe class="upload_frame" id="quick_login_frame" name="quick_login_frame"></iframe>'}), qf);
+    qf.target = 'quick_login_frame';
+    qe.onclick = loginByCredential;
+    qp.onclick = loginByCredential;
+  }, 1);
+}
+
+if (window.top && window.top != window) {
+  window.onload = qinit;
+} else {
+  setTimeout(qinit, 0);
+}
+
+qf.onsubmit = function() {
+  if (!ge('quick_login_frame')) return false;
+  if (!trim(qe.value)) {
+    notaBene(qe);
+    return false;
+  } else if (!trim(qp.value)) {
+    notaBene(qp);
+    return false;
+  }
+  lockButton(window.__qfBtn = prgBtn);
+  prgBtn = qlb;
+  clearTimeout(__qlTimer);
+  __qlTimer = setTimeout(loginSubmitError, 30000);
+  domFC(domPS(qf)).onload = function() {
+    clearTimeout(__qlTimer);
+    __qlTimer = setTimeout(loginSubmitError, 2500);
+  }
+  return true;
+}
+
+window.loginSubmitError = function() {
+  showFastBox('Warning', 'Unable to complete encrypted authorization. This can happen if your date and time settings are not configured correctly on your system. Please check your date &amp; time settings and restart the browser.');
+}
+window.focusLoginInput = function() {
+  scrollToTop(0);
+  notaBene('quick_email');
+}
+window.changeQuickRegButton = function(noShow) {
+  if (noShow) {
+    hide('top_reg_link', 'quick_reg_button');
+  } else {
+    show('top_reg_link', 'quick_reg_button');
+  }
+  toggle('top_switch_lang', noShow && window.langConfig && window.langConfig.id != 3);
+}
+window.submitQuickLoginForm = function(email, pass, opts) {
+  setQuickLoginData(email, pass, opts);
+  if (opts && opts.prg) prgBtn = opts.prg;
+  if (qf.onsubmit()) qf.submit();
+}
+window.setQuickLoginData = function(email, pass, opts) {
+  if (email !== undefined) ge('quick_email').value = email;
+  if (pass !== undefined) ge('quick_pass').value = pass;
+  var params = opts && opts.params || {};
+  each (params, function(i, v) {
+    var el = ge('quick_' + i) || ge('quick_login_' + i);;
+    if (el) {
+      val(el, params[i]);
+    } else {
+      qf.appendChild(ce('input', {type: 'hidden', name: i, id: 'quick_login_' + i, value: v}));
+    }
+  });
+}
+window.loginByCredential = function() {
+  if (!browserFeatures.cmaEnabled || !window.submitQuickLoginForm || window._loginByCredOffered) return false;
+
+  _loginByCredOffered = true;
+  navigator.credentials.get({
+    password: true,
+    mediation: 'required'
+  }).then(function(cred) {
+    if (cred) {
+      submitQuickLoginForm(cred.id, cred.password);
+      return true;
+    } else {
+      return false;
+    }
+  });
+}
+
+if (qlb) {
+  qlb.onclick = function() { if (qf.onsubmit()) qf.submit(); };
+}
+
+if (browser.opera_mobile) show('quick_expire');
+
+if (1) {
+  hide('support_link_td', 'top_support_link');
+}
+var ts_input = ge('ts_input');
+if (ts_input) {
+  placeholderSetup(ts_input, {back: false, reload: true, phColor: '#8fadc8'});
+}
+TopSearch.init();;window.shortCurrency && shortCurrency();
+window.zNav && setTimeout(zNav.pbind({}, {queue:1}), 0);
+window.handlePageParams && handlePageParams({"id":0,"level":2,"loc":"?id=255678651","wrap_page":1,"width":960,"width_dec":165,"width_dec_footer":165,"top_home_link_class":"top_home_link fl_l ","body_class":"firefox ","counters":"","pvbig":0,"pvdark":1});addEvent(document, 'click', onDocumentClick);
+addLangKeys({"global_apps":"Apps","global_friends":"Friends","global_communities":"Communities","head_search_results":"Search results","global_chats":"Conversations","global_show_all_results":"Show all results","global_news_search_results":"Search results by news","global_emoji_cat_recent":"Frequently Used","global_emoji_cat_1":"Faces","global_emoji_cat_2":"Animals &amp; Nature","global_emoji_cat_3":"Hands &amp; People","global_emoji_cat_4":"Food &amp; Drink","global_emoji_cat_5":"Activity","global_emoji_cat_6":"Travel &amp; Transport","global_emoji_cat_7":"Objects","global_emoji_cat_8":"Symbols","global_emoji_cat_9":"Flags","stories_remove_warning":"Are you sure you want to delete this story?<br>This cannot be undone.","stories_remove_confirm":"Yes, delete","stories_answer_placeholder":"Your message…","stories_answer_sent":"Message sent","stories_blacklist_title":"Hidden from Stories","stories_settings":"Settings","stories_add_blacklist_title":"Hide from stories","stories_add_blacklist_message":"This user&#39;s stories won&#39;t appear in your feed, but you&#39;ll stay friends.","stories_add_blacklist_button":"Hide from stories","stories_add_blacklist_message_group":"This community&#39;s stories won&#39;t appear in your feed, but you&#39;ll still be a follower.","stories_error_cant_load":"Unable to load the story.","stories_try_again":"Try again","stories_error_expired":"The story could be viewed<br>within 24 hours after publication","stories_error_deleted":"Story deleted","stories_error_private":"Story hidden by author","stories_mask_tooltip":"Try this mask","stories_mask_sent":"Mask sent to phone","stories_followed":"Started following&#33;","stories_unfollowed":"You&#39;ve unfollowed","stories_is_ad":"Advertisment","stories_private_story":"Private<br>story","stories_deleted_story":"Story<br>deleted","stories_bad_browser":"Stories are not supported by your browser","stories_delete_all_replies_confirm":"Are you sure you want to delete all of {name}&#39;s replies from last 24 hours?<br>This action cannot be undone.","stories_hide_reply_button":"Hide reply","stories_reply_hidden":"Story reply hidden.","stories_restore":"Restore","stories_hide_reply_continue":"Return to replies","stories_hide_all_replies":["","Hide all of his replies from the last 24 hours","Hide all of her replies from the last 24 hours"],"stories_reply_add_to_blacklist":"Add to blacklist","stories_hide_reply_warning":"Are you sure you want to hide this reply?<br>This cannot be undone.","stories_replies_more_button":["","Show %s more commenter","Show %s more commenters"],"stories_all_replies_hidden":"All replies hidden","stories_ban_confirm":"Are you sure you want to add {name} to the blacklist?<br>This cannot be undone.","stories_banned":"The user has been blacklisted","stories_share":"Share","stories_follow":"Follow","stories_unfollow":"Unfollow","stories_report":"Report","stories_report_sent":"Report sent"}, true);
+addLangKeys({"audio_delete_audio":"Delete song","audio_dont_show":"Stop suggesting","audio_performers_only":"by artist","audio_titles_search":"by title","audio_global_search_found":["","The search returned %s audio file","The search returned %s audio files"],"profile_convert_to_article":"Continue in the article editor","profile_convert_to_article_short":"Continue in the editor"});
+addTemplates({"_":"_","audio_bits_to_cls":"{\"1\":\"audio_has_lyrics\",\"2\":\"audio_can_add\",\"4\":\"audio_claimed\",\"8\":\"audio_from_queue\",\"16\":\"audio_hq\",\"1024\":\"audio_explicit\",\"32\":\"audio_lpb\",\"64\":\"audio_has_thumb\",\"256\":\"audio_moder_claimed\"}"});uiSearch.init('wall_search', { in_tabs:true,onFocus:addClass.pbind('wide_column', 'search_focused'),onBlur:removeClass.pbind('wide_column', 'search_focused'),onEnter:Wall.onWallSearchSend });
+cur.needLoginBox = function() {
+  setTimeout(showFastBox('Warning', 'Please log in or sign up to view this page.').hide, 2000);
+  return false;
+};
+cur._regBar = "<b><a href=\"\/join\" class=\"reg_bar_link\" onclick=\"return !showBox('join.php', {act: 'box', from: nav.strLoc}, {}, event)\">Join VK now<\/a><\/b> to stay in touch with Alice and millions of others. Or simply <b><a class=\"reg_bar_link\" onclick=\"focusLoginInput()\">log in<\/a><\/b>.";
+cur.lang = extend(cur.lang || {}, {
+  wall_my_friends_only: 'Only your friends can see this post',
+  change_current_info: 'set a status message',
+  share_current_info: 'Share',
+  wall_link_label: 'Link',
+  create_poll: 'Poll',
+  dont_attach: 'Remove attachment',
+  attachments_limit: ["","A post can only have %s attachment.","A post can only have %s attachments."],
+  publish_postponed_title: 'Confirmation required',
+  publish_postponed_confirm: 'Are you sure you want to publish your post now?',
+  publish_postponed_btn: 'Publish',
+  profile_gifts_hide_button: 'Hide Gifts',
+  profile_sure_hide_gifts: 'Are you sure you want to <b>hide your gifts</b>?<br><br>You can always return them to your profile in <b>{link}My Settings{/link} in the </b>{link1}Privacy{/link1} tab.',
+  global_store_stickers: 'Stickers store',
+  global_store_stickers_new_available: 'New stickers available',
+  global_link_choose_own_photo: 'Choose your own image',
+  global_link_remove_photo: 'Delete image',
+});
+Profile.init({"user_id":255678651,"loc":null,"back":"Alice Moss","reply_names":{"_":false,"255678651":["Alice","Alice, "],"272811785":["Arlen","Arlen, "]},"max_post_len":280,"post_hash":"ff4584079b271fcb82","media_types":false,"wall_type":"all","wall_no":"No posts yet","wall_counts":["","%s post","%s posts"],"all_link":"show Alice&#39;s posts","own_link":"show all posts","rmedia_types":[["photo","Photo"],["video","Video"],["audio","Audio"],["doc","Document"],["note","Note"],["map","Map"],["graffiti","Graffiti"],["market","Product",{"tt_text":"Now you can <a onclick=\"showBox('al_market.php', {act: 'a_edit_item_box', attach: 1, from_wall: 1}); return false\">attach a product<\/a> to your post.","tt_words":["sell","sell","sells","selling","sale","sold","give","gives","gave","given","for","free","rent","for","rent","rental","rents","rented","renting","give for free","giving for free","gives for free","for free","for rent","rent room","rent a room","renting a room","rents room","rents a room","renting room"]}],["postpone","Timer",{"lang":{"profile_choose_timer":"Publish time","profile_wall_postpone_at":"at","profile_wall_postpone_btn":"Enqueue","export_to_twitter":"Export to Twitter","export_to_facebook":"Export to Facebook","friends_only":"Friends only"},"date":1528142962}],["mark_as_ads","This is an ad",{"lang":{"global_ads_wall_post_mark_as_ads_action":"This is an ad"}}]],"share":[],"upload":false,"mail_cache":"","fr_click":"","ciAudioTpl":"<div class=\"page_current_audio\">\n  <div class=\"current_audio_cnt %cnt_class%\" onmouseover=\"Page.audioListenersOver(this, cur.oid)\" onclick=\"Page.showAudioListeners(cur.oid, event)\">%count%<\/div>\n  <div class=\"current_audio_wrap\">\n    <a class=\"current_audio\"%attrs%>\n      <span class=\"current_audio_icon\"><\/span>%text%\n    <\/a>\n  <\/div>\n<\/div>","ciAudioTip":"Alice is listening to this track","ciAudioHash":"b6311ccd2b73805544","ciAppTip":"Alice is now playing this game","fixed_post_id":698,"articleConvertThreshold":1000});cur.wallVideos={"wall_255678651":{"title":"Video on Alice&#39;s wall","list":[],"id":"wall_255678651"}};
+cur.module = 'profile';Page.initGifAutoplay();Page.initVideoAutoplay();; TimeSpent && TimeSpent.setTimers && TimeSpent.setTimers(3000, 10000); TimeSpent && TimeSpent.update && TimeSpent.update(false);
+;(function (d, w) {
+if (w.__dev) {
+  return
+}
+var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+    }
+  </script>
+
+
+<div class="advblock advertblock ammblock b-banner b-media-banner pub_300x250 pub_300x250m medium_rectangle_300_250 pub_728x90 leaderboard_728_90 wide_skyscraper_160_600 wide_skyscraper_160x600 text-ad textAd text_ad text_ads text-ads text-ad-links ad_text ad_text banner_text text-banner b-rb" style="position: absolute !important; top: -9999px !important; left: -9999px !important; width: 1px !important; height: 1px !important;"></div></body></html>
